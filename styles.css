@@ -1,12 +1,7 @@
 
-/* Your CSS Code here. */
 .holder{
-	display: flex;
-	justify-content: center;
-}
-.item-1{
-	height: 100vh;
-	display: flex;
+	height:100vh;
+	display:flex;
+	justify-content:center;
 	align-items: center;
-	justify-content: center;
 }
